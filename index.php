@@ -5,7 +5,7 @@
 <body>
 <?php
 	print "Hello World";
-	print "Hello World";
+	print "\nHello World";
 ?>
 </body>
 </html>
